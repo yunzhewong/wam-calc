@@ -1,0 +1,2 @@
+(this["webpackJsonpwam-calc"]=this["webpackJsonpwam-calc"]||[]).push([[0],{4:function(c,a,e){"use strict";e.r(a);e(0);var t=e(2),n=e.n(t),o=(e(9),e(3));n.a.render(Object(o.jsx)("h1",{children:"Sample Wam Calculator"}),document.getElementById("root"))},9:function(c,a,e){}},[[4,1,2]]]);
+//# sourceMappingURL=main.8dd17168.chunk.js.map
