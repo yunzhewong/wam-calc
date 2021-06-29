@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/wam-calc/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/wam-calc/static/js/main.8dd17168.chunk.js",
-    "main.js.map": "/wam-calc/static/js/main.8dd17168.chunk.js.map",
+    "main.js": "/wam-calc/static/js/main.7d7c7433.chunk.js",
+    "main.js.map": "/wam-calc/static/js/main.7d7c7433.chunk.js.map",
     "runtime-main.js": "/wam-calc/static/js/runtime-main.5f85d8a9.js",
     "runtime-main.js.map": "/wam-calc/static/js/runtime-main.5f85d8a9.js.map",
-    "static/js/2.8141fbc2.chunk.js": "/wam-calc/static/js/2.8141fbc2.chunk.js",
-    "static/js/2.8141fbc2.chunk.js.map": "/wam-calc/static/js/2.8141fbc2.chunk.js.map",
+    "static/js/2.0d79941f.chunk.js": "/wam-calc/static/js/2.0d79941f.chunk.js",
+    "static/js/2.0d79941f.chunk.js.map": "/wam-calc/static/js/2.0d79941f.chunk.js.map",
     "index.html": "/wam-calc/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/wam-calc/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.8141fbc2.chunk.js.LICENSE.txt": "/wam-calc/static/js/2.8141fbc2.chunk.js.LICENSE.txt"
+    "static/js/2.0d79941f.chunk.js.LICENSE.txt": "/wam-calc/static/js/2.0d79941f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5f85d8a9.js",
-    "static/js/2.8141fbc2.chunk.js",
+    "static/js/2.0d79941f.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.8dd17168.chunk.js"
+    "static/js/main.7d7c7433.chunk.js"
   ]
 }
