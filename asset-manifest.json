@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/wam-calc/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/wam-calc/static/js/main.8bfe379e.chunk.js",
+    "main.js.map": "/wam-calc/static/js/main.8bfe379e.chunk.js.map",
+    "runtime-main.js": "/wam-calc/static/js/runtime-main.71ab5887.js",
+    "runtime-main.js.map": "/wam-calc/static/js/runtime-main.71ab5887.js.map",
+    "static/js/2.5825d0f2.chunk.js": "/wam-calc/static/js/2.5825d0f2.chunk.js",
+    "static/js/2.5825d0f2.chunk.js.map": "/wam-calc/static/js/2.5825d0f2.chunk.js.map",
+    "static/js/3.3469ba75.chunk.js": "/wam-calc/static/js/3.3469ba75.chunk.js",
+    "static/js/3.3469ba75.chunk.js.map": "/wam-calc/static/js/3.3469ba75.chunk.js.map",
+    "index.html": "/wam-calc/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/wam-calc/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.5825d0f2.chunk.js.LICENSE.txt": "/wam-calc/static/js/2.5825d0f2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/wam-calc/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.71ab5887.js",
+    "static/js/2.5825d0f2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.8bfe379e.chunk.js"
+  ]
+}
