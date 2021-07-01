@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/wam-calc/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/wam-calc/static/js/main.84ef94ae.chunk.js",
-    "main.js.map": "/wam-calc/static/js/main.84ef94ae.chunk.js.map",
+    "main.css": "/wam-calc/static/css/main.d19b66d7.chunk.css",
+    "main.js": "/wam-calc/static/js/main.837e0b26.chunk.js",
+    "main.js.map": "/wam-calc/static/js/main.837e0b26.chunk.js.map",
     "runtime-main.js": "/wam-calc/static/js/runtime-main.5f85d8a9.js",
     "runtime-main.js.map": "/wam-calc/static/js/runtime-main.5f85d8a9.js.map",
-    "static/js/2.0d79941f.chunk.js": "/wam-calc/static/js/2.0d79941f.chunk.js",
-    "static/js/2.0d79941f.chunk.js.map": "/wam-calc/static/js/2.0d79941f.chunk.js.map",
+    "static/js/2.d684982d.chunk.js": "/wam-calc/static/js/2.d684982d.chunk.js",
+    "static/js/2.d684982d.chunk.js.map": "/wam-calc/static/js/2.d684982d.chunk.js.map",
     "index.html": "/wam-calc/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/wam-calc/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.0d79941f.chunk.js.LICENSE.txt": "/wam-calc/static/js/2.0d79941f.chunk.js.LICENSE.txt"
+    "static/css/main.d19b66d7.chunk.css.map": "/wam-calc/static/css/main.d19b66d7.chunk.css.map",
+    "static/js/2.d684982d.chunk.js.LICENSE.txt": "/wam-calc/static/js/2.d684982d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.5f85d8a9.js",
-    "static/js/2.0d79941f.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.84ef94ae.chunk.js"
+    "static/js/2.d684982d.chunk.js",
+    "static/css/main.d19b66d7.chunk.css",
+    "static/js/main.837e0b26.chunk.js"
   ]
 }
