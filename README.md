@@ -1,4 +1,5 @@
 # WAM-Calculator (28/06/2021)
+Hosted on https://yunzhewong.github.io/wam-calc/
 
 # Why did I start this project
 This project was built to test out my abilities with React. The goal was to create a website that makes it easy for students to check their WAM 
